@@ -1,0 +1,6 @@
+@BE_audisoft_HostAddress = http://localhost:5038
+
+GET {{BE_audisoft_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

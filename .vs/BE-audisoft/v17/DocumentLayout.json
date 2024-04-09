@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\models\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\models\\profesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\models\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\models\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\models\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\models\\estudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\models\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\migrations\\20240409150555_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\migrations\\20240409150555_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\be-audisoft.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\be-audisoft.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\migrations\\20240409182000_migracionprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\migrations\\20240409182000_migracionprofesores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|c:\\camilo aranzazu\\trabajo\\angularnew\\backendaudisoft\\be-audisoft\\be-audisoft\\migrations\\20240409185832_migracionnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABB5D85-D6D6-49FA-A3C3-3F2D596E8203}|BE-audisoft\\BE-audisoft.csproj|solutionrelative:be-audisoft\\migrations\\20240409185832_migracionnotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotasController.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Controllers\\NotasController.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Controllers\\NotasController.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Controllers\\NotasController.cs",
+              "RelativeToolTip": "BE-audisoft\\Controllers\\NotasController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:41:33.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Models\\Notas.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Models\\Notas.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Models\\Notas.cs",
+              "RelativeToolTip": "BE-audisoft\\Models\\Notas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:36:23.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240409182000_MigracionProfesores.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Migrations\\20240409182000_MigracionProfesores.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Migrations\\20240409182000_MigracionProfesores.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Migrations\\20240409182000_MigracionProfesores.cs",
+              "RelativeToolTip": "BE-audisoft\\Migrations\\20240409182000_MigracionProfesores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:20:01.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profesores.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Models\\Profesores.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Models\\Profesores.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Models\\Profesores.cs",
+              "RelativeToolTip": "BE-audisoft\\Models\\Profesores.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:15:42.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240409150555_initial.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Migrations\\20240409150555_initial.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Migrations\\20240409150555_initial.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Migrations\\20240409150555_initial.cs",
+              "RelativeToolTip": "BE-audisoft\\Migrations\\20240409150555_initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:05:56.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\appsettings.json",
+              "RelativeDocumentMoniker": "BE-audisoft\\appsettings.json",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\appsettings.json",
+              "RelativeToolTip": "BE-audisoft\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T14:53:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Program.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Program.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Program.cs",
+              "RelativeToolTip": "BE-audisoft\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:32:15.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estudiantes.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Models\\Estudiantes.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Models\\Estudiantes.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Models\\Estudiantes.cs",
+              "RelativeToolTip": "BE-audisoft\\Models\\Estudiantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:37:49.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "BE-audisoft\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:25:42.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfesoresController.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Controllers\\ProfesoresController.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Controllers\\ProfesoresController.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Controllers\\ProfesoresController.cs",
+              "RelativeToolTip": "BE-audisoft\\Controllers\\ProfesoresController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwE4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:16:43.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240409185832_MigracionNotas.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Migrations\\20240409185832_MigracionNotas.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Migrations\\20240409185832_MigracionNotas.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Migrations\\20240409185832_MigracionNotas.cs",
+              "RelativeToolTip": "BE-audisoft\\Migrations\\20240409185832_MigracionNotas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:58:32.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Models\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BE-audisoft\\Models\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\Models\\AplicationDbContext.cs",
+              "RelativeToolTip": "BE-audisoft\\Models\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:46:56.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BE-audisoft.csproj",
+              "DocumentMoniker": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\BE-audisoft.csproj",
+              "RelativeDocumentMoniker": "BE-audisoft\\BE-audisoft.csproj",
+              "ToolTip": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\BE-audisoft.csproj",
+              "RelativeToolTip": "BE-audisoft\\BE-audisoft.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T14:24:39.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
