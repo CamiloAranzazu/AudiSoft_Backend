@@ -1,6 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using BE_axede.Models;
+using Microsoft.EntityFrameworkCore;
 
-namespace BE_audisoft.Models
+namespace BE_axede.Models
 {
     public class AplicationDbContext: DbContext
     {
@@ -10,10 +11,15 @@ namespace BE_audisoft.Models
 
         }
 
-        public DbSet<Estudiantes> Estudiantes { get; set; }
+        public DbSet<City> City { get; set; }
 
-        public DbSet<Profesores> Profesores { get; set; }
+        public DbSet<Hotel> Hotel { get; set; }
 
-        public DbSet<Notas> Notas{ get; set; }
+        public DbSet<Habitaciones> Habitaciones { get; set; }
+
+        public DbSet<TypeHabitacion> TypeHabitacion { get; set; }
+
+        public DbSet<Reserva> Reserva { get; set; }
+
     }
 }

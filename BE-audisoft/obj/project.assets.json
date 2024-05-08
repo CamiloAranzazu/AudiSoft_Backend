@@ -4528,9 +4528,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\BE-audisoft.csproj",
-      "projectName": "BE-audisoft",
-      "projectPath": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\BE-audisoft.csproj",
+      "projectUniqueName": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\axede.csproj",
+      "projectName": "axede",
+      "projectPath": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\axede.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
       "outputPath": "C:\\Camilo Aranzazu\\Trabajo\\AngularNew\\backendAudiSoft\\BE-audisoft\\BE-audisoft\\obj\\",
       "projectStyle": "PackageReference",
